@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 1095-8E14
+
+ Directory of C:\Users\Dibya\Desktop\StartGitone
+
+03-10-2020  01:21    <DIR>          .
+03-10-2020  01:21    <DIR>          ..
+03-10-2020  01:21                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  400,340,361,216 bytes free
